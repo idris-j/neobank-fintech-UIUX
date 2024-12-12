@@ -62,7 +62,7 @@ class _NFCScreenState extends State<NFCScreen> {
             Row(
               children: [
                 Text(
-                  "NFC",
+                  "Tap to Cash",
                   style: txStyle27Bold,
                 ),
                 horizontalx5,
@@ -175,7 +175,7 @@ class _ReadCardScreenState extends State<ReadCardScreen> {
           Row(
             children: [
               Text(
-                "NFC",
+                "Tap to Cash",
                 style: txStyle27Bold,
               ),
               horizontalx5,
